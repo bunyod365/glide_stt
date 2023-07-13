@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Upload File for Transcription</h2>
+
+<form id="uploadForm">
+  <input type="file" id="fileUpload">
+  <input type="submit">
+</form>
+
+<script src="script.js"></script>
+
+</body>
+</html>
